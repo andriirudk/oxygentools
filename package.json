@@ -6,18 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/andriirudk/oxygentools.git"
-  },
+  "repository": "git+https://github.com/andriirudk/oxygentools.git",
   "keywords": [],
-  "author": "",
+  "author": "'Andrii Rudkivskyi' <'andrey.rudk13@gmail.com'>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andriirudk/oxygentools/issues"
   },
   "homepage": "https://github.com/andriirudk/oxygentools#readme",
   "dependencies": {
+    "bootstrap": "^4.5.3",
     "normalize.css": "^8.0.1"
   }
 }
